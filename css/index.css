@@ -63,7 +63,7 @@ header {
 }
 .top-content {
   height: 65%;
-  background-color: #282828;
+  background-color: #323232;
 }
 .bottom-content {
   height: 35%;
@@ -81,4 +81,66 @@ header {
 }
 td {
   font-size: 14px;
+}
+.banner {
+  height: 170px;
+  background-color: #323232;
+}
+.banner p {
+  font-size: 20px;
+  font-weight: 200;
+}
+.banner span {
+  color: #769191;
+  font-size: 20px;
+}
+.employment {
+  background-color: #282828;
+}
+.banner-2 {
+  height: 130px;
+  background-color: #282828;
+}
+.banner-2 h1 {
+  letter-spacing: 3px;
+}
+.box-2 {
+  height: 250px;
+}
+.blt {
+  border-top-right-radius: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  border: 1px solid #282828;
+  height: 100%;
+  background-color: #323232;
+}
+.blt h1 {
+  font-size: 80px;
+  font-style: italic;
+}
+.brt {
+  border-top-left-radius: 30px;
+  color: #769191;
+  border: 1px solid #282828;
+  height: 100%;
+  background-color: #323232;
+}
+.edubox {
+  display: block;
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+}
+
+.b2brt {
+  text-align: right;
+  border-top-left-radius: 0px;
+}
+.b2blt {
+  text-align: left;
+  border-top-right-radius: 0px;
 }
